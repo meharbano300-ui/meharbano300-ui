@@ -5,10 +5,10 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Full-Stack Web Developer specialized in building scalable and user-centric web applications.
-* 🎓 Solid background in BS-IT with hands-on industry experience.
-* 💻 Strong focus on clean code, responsive design, and UI/UX aesthetics.
-* 🛠️ Passionate about modern web solutions, automation, and continuous learning.
+* 🚀 Full-Stack Web Developer specialized in building scalable and user-centric web applications with MERN stack & PHP.
+* 🎓 Solid background in BS-IT with hands-on industry experience across multiple tech environments.
+* 💻 Strong focus on clean code, responsive design, UI/UX aesthetics, and interactive web experiences.
+* 🛠️ Passionate about modern web solutions, AI automation workflows, and continuous learning.
 
 ---
 
@@ -36,11 +36,13 @@
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
-#### 🛠️ Tools & Specialties
+#### 🛠️ Tools, Design & Specialties
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -48,8 +50,11 @@
 ### 📂 Featured Projects
 
 * **ShopSphere** - E-commerce platform featuring dynamic listings and cart management.
-* **SkyCast AI** - Real-time weather forecasting application.
+* **Echo System** - AI automation platform with intelligent workflow execution.
+* **Sparta Tech Solutions** - Enterprise Web Architecture & Services Provider platform.
 * **Maison Atelier** - Premium luxury web application with high-end UI/UX aesthetics.
+* **SkyCast AI** - Real-time weather forecasting application.
+* **Xelora Tech** - Modern business and technical web application.
 * **Crextio** - Custom luxury dashboard application.
 
 ⭐ *Check my repositories to see more!*
