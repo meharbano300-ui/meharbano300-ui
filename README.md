@@ -1,128 +1,102 @@
-
-<!-- =========================================================
-     SAMRA AMIR | PREMIUM DEVELOPER PROFILE
-     Theme: Cyan × Lavender × Royal Purple
-========================================================== -->
-
-<!-- TOP ANIMATED GRADIENT WAVE - ORIGINAL COLORS PRESERVED -->
+```markdown
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                 SAMRA AMIR | PROFILE                   -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:53E0F5,25:9CCBF0,55:B39AD4,80:8666B5,100:5958A5&height=180&section=header&animation=twinkling" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:55E5F5,25:9CCBF0,55:B59BD8,80:8766B6,100:5958A5&animation=twinkling&section=header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=45&duration=3500&pause=1000&color=9274C3&center=true&vCenter=true&repeat=false&width=750&height=70&lines=SAMRA+AMIR" />
-
-<h3>✦ FULL-STACK WEB DEVELOPER ✦</h3>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=17&duration=2800&pause=900&color=55BFD9&center=true&vCenter=true&width=650&height=35&lines=Crafting+Digital+Experiences;Building+Modern+Web+Applications;Frontend+%E2%80%A2+Backend+%E2%80%A2+Innovation;Turning+Ideas+Into+Reality" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=4000&pause=1000&color=8065B8&center=true&vCenter=true&repeat=false&width=850&height=75&lines=SAMRA+AMIR" />
 
 <br/>
 
-<p>
-  <em>
-    Creating elegant interfaces, powerful applications<br/>
-    and meaningful digital experiences.
-  </em>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=55BFD9&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Web+Developer;Frontend+Developer+%7C+MERN+Stack;PHP+%7C+React+%7C+Modern+Web+Solutions;Turning+Ideas+Into+Digital+Experiences" />
 
 <br/>
+
+<em>Crafting elegant interfaces. Engineering powerful experiences.</em>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/samra-amir-93389b26a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:meharbano300@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/meharbano300-ui">
-  <img src="https://img.shields.io/badge/GITHUB-5958A5?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=meharbano300-ui&label=PROFILE+VISITORS&color=9274C3&style=for-the-badge" />
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=meharbano300-ui&style=for-the-badge&color=8065B8&label=VISITORS" />
 
 </div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━ ANIMATED GRADIENT DIVIDER ━━━━━━━━━━━ -->
+
+<div align="center">
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:55E5F5,30:9CCBF0,60:B59BD8,100:5958A5" />
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+
+<div align="center">
+
+## ✦ THE DEVELOPER BEHIND THE CODE ✦
+
+### Hello, World! 👋
+
+**I'm Samra Amir**
+
+*Full-Stack Web Developer | Digital Creator | Technology Enthusiast*
+
+</div>
+
+<br/>
+
+> I transform ideas into responsive, interactive and visually engaging digital experiences, combining development with creativity and modern design principles.
+
+- 🚀 Full-Stack Web Developer specialized in building scalable and user-centric web applications with MERN stack & PHP.
+- 🎓 Solid background in BS-IT with hands-on industry experience across multiple tech environments.
+- 💻 Strong focus on clean code, responsive design, UI/UX aesthetics, and interactive web experiences.
+- 🛠️ Passionate about modern web solutions, AI automation workflows, and continuous learning.
+
+<br/>
+
+<div align="center">
+
+| ✦ | MY DEVELOPMENT PHILOSOPHY | ✦ |
+|:---:|:---:|:---:|
+| 🎨 | Creative Design | |
+| ⚡ | Clean Development | |
+| 💡 | Continuous Innovation | |
+
+</div>
+
+<br/>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- TECH STACK -->
 
 <div align="center">
 
-## ✧ ABOUT ME ✧
+## ✦ THE TECHNOLOGY LAB ✦
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:53E0F5,50:B39AD4,100:8666B5&height=3&section=header" width="65%" />
-
-<br/>
-
-### 👩🏻‍💻 A LITTLE INTRODUCTION
-
-**Hey there! I'm Samra Amir.**
-
-*Full-Stack Web Developer | Creative Thinker | Tech Enthusiast*
+*Tools, technologies and frameworks I work with.*
 
 </div>
 
-I am passionate about transforming ideas into modern, scalable and visually appealing web applications. I enjoy working across the frontend and backend, creating seamless digital experiences with clean code and thoughtful design.
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ✦ WHAT I DO
-
-- 🌐 Full-Stack Web Development
-- 🎨 Responsive UI/UX Design
-- ⚙️ Backend Development
-- 🗄️ Database Management
-- 🤖 AI & Automation Workflows
-
-</td>
-<td width="50%" valign="top">
-
-### ✦ WHAT DRIVES ME
-
-- 💡 Creative Problem Solving
-- 🚀 Continuous Improvement
-- ✨ Modern Web Technologies
-- 🧩 Clean & Maintainable Code
-- 🤝 Meaningful Collaboration
-
-</td>
-</tr>
-</table>
-
-<br/>
+### 01. Frontend Engineering
 
 <div align="center">
-
-`CREATIVITY` &nbsp; ✧ &nbsp; `INNOVATION` &nbsp; ✧ &nbsp; `PASSION` &nbsp; ✧ &nbsp; `EXCELLENCE`
-
-</div>
-
----
-
-<!-- TECHNOLOGY SECTION -->
-
-<div align="center">
-
-## ✧ MY TECH UNIVERSE ✧
-
-*The technologies and tools I use to bring ideas to life.*
-
-<br/>
-
-### 01. FRONTEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&theme=light" />
 
@@ -130,48 +104,63 @@ I am passionate about transforming ideas into modern, scalable and visually appe
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-<br/><br/>
-
-### 02. BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,supabase,mysql&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NODE.JS-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/EXPRESS-404D59?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-<br/><br/>
-
-### 03. TOOLS & DESIGN
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-<!-- PROJECTS SECTION -->
+### 02. Backend & Database
 
 <div align="center">
 
-## ✧ SELECTED CREATIVE WORKS ✧
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb&theme=light" />
 
-*Ideas transformed into functional digital experiences.*
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" />
+
+</div>
+
+<br/>
+
+### 03. Tools & Creative Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=flat-square&logo=figma&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- PROJECT SHOWCASE -->
+
+<div align="center">
+
+## ✦ THE CREATIVE SHOWCASE ✦
+
+*Selected digital experiences and development projects.*
 
 <br/>
 
@@ -181,47 +170,20 @@ I am passionate about transforming ideas into modern, scalable and visually appe
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">01 / 🛍️ ShopSphere</h3>
 
-### 🛍️ ShopSphere
-
-<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-8065B8?style=flat-square" />
-
-</div>
-
-A modern e-commerce platform featuring dynamic product listings and shopping cart management.
-
-**Focus Areas:**
-- Product listings
-- Shopping experience
-- Cart management
-
-<a href="https://github.com/meharbano300-ui/shopsphere">
-  Explore Repository →
-</a>
+<p align="center">
+E-commerce platform featuring dynamic listings and cart management.
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">02 / 🤖 Echo System</h3>
 
-### 🏢 Sparta Tech Solutions
-
-<img src="https://img.shields.io/badge/PROJECT-WEB%20PLATFORM-55BFD9?style=flat-square" />
-
-</div>
-
-An enterprise-focused web platform for technology services and professional digital solutions.
-
-**Focus Areas:**
-- Web architecture
-- Business presentation
-- Service solutions
-
-<a href="https://github.com/meharbano300-ui/Sparta-Tech-Solutions">
-  Explore Repository →
-</a>
+<p align="center">
+AI automation platform with intelligent workflow execution.
+</p>
 
 </td>
 </tr>
@@ -229,37 +191,20 @@ An enterprise-focused web platform for technology services and professional digi
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">03 / 🏢 Sparta Tech Solutions</h3>
 
-### 🎵 SpotifyProject
-
-<img src="https://img.shields.io/badge/PROJECT-WEB%20DEVELOPMENT-8666B5?style=flat-square" />
-
-</div>
-
-A JavaScript-based project available in my public GitHub repositories.
-
-<a href="https://github.com/meharbano300-ui/SpotifyProject">
-  Explore Repository →
-</a>
+<p align="center">
+Enterprise Web Architecture & Services Provider platform.
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">04 / 💎 Maison Atelier</h3>
 
-### 💻 Samra Project
-
-<img src="https://img.shields.io/badge/PROJECT-HTML-5958A5?style=flat-square" />
-
-</div>
-
-A personal development project available in my public repositories.
-
-<a href="https://github.com/meharbano300-ui/Samra_Project">
-  Explore Repository →
-</a>
+<p align="center">
+Premium luxury web application with high-end UI/UX aesthetics.
+</p>
 
 </td>
 </tr>
@@ -267,37 +212,30 @@ A personal development project available in my public repositories.
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">05 / 🌤️ SkyCast AI</h3>
 
-### ⚡ Automation
-
-<img src="https://img.shields.io/badge/PROJECT-JAVASCRIPT-55BFD9?style=flat-square" />
-
-</div>
-
-A JavaScript-based automation repository.
-
-<a href="https://github.com/meharbano300-ui/Automation">
-  Explore Repository →
-</a>
+<p align="center">
+Real-time weather forecasting application.
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">06 / ✨ Xelora Tech</h3>
 
-### ✨ Ajaia
+<p align="center">
+Modern business and technical web application.
+</p>
 
-<img src="https://img.shields.io/badge/PROJECT-HTML-8065B8?style=flat-square" />
+</td>
+</tr>
 
-</div>
+<tr>
+<td colspan="2" align="center">
 
-An additional public HTML project from my GitHub profile.
+<h3>07 / 📊 Crextio</h3>
 
-<a href="https://github.com/meharbano300-ui/ajaia">
-  Explore Repository →
-</a>
+Custom luxury dashboard application.
 
 </td>
 </tr>
@@ -308,52 +246,52 @@ An additional public HTML project from my GitHub profile.
 <br/>
 
 <a href="https://github.com/meharbano300-ui?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-8065B8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-8065B8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- GITHUB STATISTICS -->
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
-## ✧ GITHUB ANALYTICS ✧
+## ✦ GITHUB COMMAND CENTER ✦
 
-*My development journey, contributions and coding activity.*
+*My coding journey, contributions and repository insights.*
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meharbano300-ui&show_icons=true&hide_border=true&bg_color=F8F5FF&title_color=8065B8&icon_color=55BFD9&text_color=40445A&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meharbano300-ui&show_icons=true&hide_border=true&bg_color=F7F5FC&title_color=8065B8&icon_color=55BFD9&text_color=45405C" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharbano300-ui&layout=compact&hide_border=true&bg_color=F8F5FF&title_color=8065B8&text_color=40445A" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=meharbano300-ui&hide_border=true&background=F8F5FF&ring=9274C3&fire=55BFD9&currStreakLabel=8065B8&sideLabels=5958A5&currStreakNum=5958A5&sideNums=5958A5&dates=777777" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharbano300-ui&layout=compact&hide_border=true&bg_color=F7F5FC&title_color=8065B8&text_color=45405C" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meharbano300-ui&bg_color=F8F5FF&color=8065B8&line=55BFD9&point=8666B5&area=true&hide_border=true" width="100%" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=meharbano300-ui&hide_border=true&background=F7F5FC&ring=8065B8&fire=55BFD9&currStreakLabel=8065B8&sideLabels=45405C&dates=777777" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meharbano300-ui&bg_color=F7F5FC&color=8065B8&line=55BFD9&point=8065B8&area=true&hide_border=true" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- CONNECT SECTION -->
+<!-- CONNECT -->
 
 <div align="center">
 
-## ✧ LET'S CONNECT ✧
+## ✦ BEYOND THE CODE ✦
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:53E0F5,50:B39AD4,100:8666B5&height=3&section=header" width="60%" />
+### Let's build something remarkable together.
 
-<br/>
-
-### Have an idea? Let's build something amazing!
-
-I'm always happy to connect with fellow developers, exchange ideas and explore exciting opportunities.
+*Have an idea, project, or opportunity? Let's connect and create something meaningful.*
 
 <br/>
 
@@ -361,38 +299,23 @@ I'm always happy to connect with fellow developers, exchange ideas and explore e
 <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
-
 <a href="mailto:meharbano300@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-SAY%20HELLO-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/meharbano300-ui">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-5958A5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=19&duration=2500&pause=1000&color=8065B8&center=true&vCenter=true&width=600&height=45&lines=Imagine+%E2%9C%A6+Create+%E2%9C%A6+Innovate;Code+With+Purpose.;Keep+Learning.+Keep+Building.;Thank+You+For+Visiting+My+Profile!" />
 
 <br/><br/>
 
-### 💜 DESIGN ✦ DEVELOP ✦ INNOVATE
+<em>“Feel free to explore my repositories and connect with me!”</em>
 
-*Building today. Creating tomorrow.*
+<br/><br/>
 
-<br/>
-
-**Thank you for visiting my little corner of GitHub!**
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:55E5F5,25:9CCBF0,55:B59BD8,80:8766B6,100:5958A5&animation=twinkling&section=footer" />
 
 </div>
 
-<!-- BOTTOM ANIMATED GRADIENT WAVE - ORIGINAL COLORS PRESERVED -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:53E0F5,25:9CCBF0,55:B39AD4,80:8666B5,100:5958A5&height=180&section=footer&animation=twinkling" width="100%" />
-
-</div>
-
-<!-- ================= END OF PROFILE ================= -->
+<!-- ═════════════════════ END ═════════════════════ -->
+```
