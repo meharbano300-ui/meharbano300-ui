@@ -60,9 +60,6 @@
 
 
 
-
-
-
 <!-- TECH STACK -->
 
 <div align="center">
@@ -150,11 +147,6 @@
 
 
 
-
-
-
-
----
 
 <div align="center">
 
