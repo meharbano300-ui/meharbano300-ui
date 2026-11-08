@@ -1,88 +1,67 @@
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--                 SAMRA AMIR | PROFILE                   -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+<!-- ═════════════ SAMRA AMIR | GITHUB PROFILE ═════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:55E5F5,25:9CCBF0,55:B59BD8,80:8766B6,100:5958A5&animation=twinkling&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:53E0F5,25:9CCBF0,55:B39AD8,80:8666B5,100:5958A5&section=header&animation=twinkling" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=4000&pause=1000&color=8065B8&center=true&vCenter=true&repeat=false&width=850&height=75&lines=SAMRA+AMIR" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3500&pause=1000&color=8065B8&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SAMRA+AMIR" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=55BFD9&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Web+Developer;Frontend+%7C+MERN+%7C+PHP;Creative+Problem+Solver;Building+Digital+Experiences" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=55BFD9&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Web+Developer;Frontend+Developer+%7C+MERN+Stack;PHP+%7C+React+%7C+Modern+Web+Solutions;Turning+Ideas+Into+Digital+Experiences" />
-
-<br/>
-
-<em>Crafting elegant interfaces. Engineering powerful experiences.</em>
+**Transforming complex ideas into high-performance digital realities.**
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/samra-amir-93389b26a/">
-<img src="https://img.shields.io/badge/LINKEDIN-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:meharbano300@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=meharbano300-ui&style=for-the-badge&color=8065B8&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=meharbano300-ui&style=for-the-badge&color=9274C3&label=PROFILE+VISITORS" />
 
 </div>
 
-<br/>
-
-<!-- ━━━━━━━━━━━ ANIMATED GRADIENT DIVIDER ━━━━━━━━━━━ -->
-
-<div align="center">
-<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:55E5F5,30:9CCBF0,60:B59BD8,100:5958A5" />
-</div>
-
-<br/>
-
-<!-- ABOUT -->
+---
 
 <div align="center">
 
-## ✦ THE DEVELOPER BEHIND THE CODE ✦
+## ✧ WHO AM I? ✧
 
-### Hello, World! 👋
+### 👩‍💻 Full-Stack Web Developer
 
-**I'm Samra Amir**
-
-*Full-Stack Web Developer | Digital Creator | Technology Enthusiast*
+*Passionate about technology, creativity and building meaningful digital experiences.*
 
 </div>
-
-<br/>
-
-> I transform ideas into responsive, interactive and visually engaging digital experiences, combining development with creativity and modern design principles.
 
 - 🚀 Full-Stack Web Developer specialized in building scalable and user-centric web applications with MERN stack & PHP.
 - 🎓 Solid background in BS-IT with hands-on industry experience across multiple tech environments.
 - 💻 Strong focus on clean code, responsive design, UI/UX aesthetics, and interactive web experiences.
 - 🛠️ Passionate about modern web solutions, AI automation workflows, and continuous learning.
 
-<br/>
-
 <div align="center">
 
-| ✦ | MY DEVELOPMENT PHILOSOPHY | ✦ |
-|:---:|:---:|:---:|
-| 🎨 | Creative Design | |
-| ⚡ | Clean Development | |
-| 💡 | Continuous Innovation | |
+`CREATIVITY` ✦ `INNOVATION` ✦ `DEVELOPMENT` ✦ `EXCELLENCE`
 
 </div>
 
-<br/>
-
 ---
+
+
+
+
+
+
+
+
+
 
 <!-- TECH STACK -->
 
@@ -169,86 +148,75 @@
 
 ---
 
-<!-- PROJECT SHOWCASE -->
+
+
+
+
+
+
+---
 
 <div align="center">
 
-## ✦ THE CREATIVE SHOWCASE ✦
+## ✧ FEATURED PROJECTS ✧
 
-*Selected digital experiences and development projects.*
-
-<br/>
+*Where creativity meets technology.*
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">01 / 🛍️ ShopSphere</h3>
+### 🛍️ ShopSphere
 
-<p align="center">
 E-commerce platform featuring dynamic listings and cart management.
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">02 / 🤖 Echo System</h3>
+### 🤖 Echo System
 
-<p align="center">
 AI automation platform with intelligent workflow execution.
-</p>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">03 / 🏢 Sparta Tech Solutions</h3>
+### 🏢 Sparta Tech Solutions
 
-<p align="center">
 Enterprise Web Architecture & Services Provider platform.
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">04 / 💎 Maison Atelier</h3>
+### 💎 Maison Atelier
 
-<p align="center">
 Premium luxury web application with high-end UI/UX aesthetics.
-</p>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">05 / 🌤️ SkyCast AI</h3>
+### 🌤️ SkyCast AI
 
-<p align="center">
 Real-time weather forecasting application.
-</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">06 / ✨ Xelora Tech</h3>
+### ✨ Xelora Tech
 
-<p align="center">
 Modern business and technical web application.
-</p>
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" align="center">
 
-<h3>07 / 📊 Crextio</h3>
+### 📊 Crextio
 
 Custom luxury dashboard application.
 
@@ -258,89 +226,67 @@ Custom luxury dashboard application.
 
 <div align="center">
 
-<br/>
-
 <a href="https://github.com/meharbano300-ui?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-8065B8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-8065B8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
-
 ---
-
-<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
-## ✦ GITHUB COMMAND CENTER ✦
+## ✧ GITHUB ANALYTICS ✧
 
-*My coding journey, contributions and repository insights.*
+*My coding journey in numbers.*
 
 <br/>
 
-<!-- GITHUB PROFILE STATS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meharbano300-ui&show_icons=true&hide_border=true&bg_color=F7F5FC&title_color=8065B8&icon_color=55BFD9&text_color=45405C" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meharbano300-ui&show_icons=true&hide_border=true&bg_color=F7F5FC&title_color=8065B8&icon_color=55BFD9&text_color=45405C&rank_icon=github" alt="Samra's GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharbano300-ui&layout=compact&hide_border=true&bg_color=F7F5FC&title_color=8065B8&text_color=45405C&langs_count=8" alt="Samra's Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meharbano300-ui&layout=compact&hide_border=true&bg_color=F7F5FC&title_color=8065B8&text_color=45405C" />
 
 <br/><br/>
 
-<!-- CONTRIBUTION STREAK -->
-
-<img width="85%" src="https://streak-stats.demolab.com?user=meharbano300-ui&hide_border=true&background=F7F5FC&ring=8065B8&fire=55BFD9&currStreakLabel=8065B8&sideLabels=45405C&dates=777777&stroke=B59BD8" alt="Samra's GitHub Contribution Streak" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=meharbano300-ui&hide_border=true&background=F7F5FC&ring=8065B8&fire=55BFD9&currStreakLabel=8065B8" />
 
 <br/><br/>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meharbano300-ui&bg_color=F7F5FC&color=8065B8&line=55BFD9&point=8065B8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Samra's GitHub Contribution Activity Graph" />
-
-<br/><br/>
-
-<!-- GITHUB PROFILE TROPHIES -->
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=meharbano300-ui&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Samra's GitHub Profile Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meharbano300-ui&bg_color=F7F5FC&color=8065B8&line=55BFD9&point=8065B8&area=true&hide_border=true" />
 
 </div>
 
-<br/>
-
 ---
-
-<!-- CONNECT -->
 
 <div align="center">
 
-## ✦ BEYOND THE CODE ✦
+## ✧ LET'S CONNECT ✧
 
-### Let's build something remarkable together.
+### Let's create something extraordinary together!
 
-*Have an idea, project, or opportunity? Let's connect and create something meaningful.*
+*Have an idea, project, or opportunity? Let's build something meaningful.*
 
 <br/>
 
 <a href="https://www.linkedin.com/in/samra-amir-93389b26a/">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-8065B8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:meharbano300@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-SAY%20HELLO-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20An%20Email-55BFD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=19&duration=2500&pause=1000&color=8065B8&center=true&vCenter=true&width=600&height=45&lines=Imagine+%E2%9C%A6+Create+%E2%9C%A6+Innovate;Code+With+Purpose.;Keep+Learning.+Keep+Building.;Thank+You+For+Visiting+My+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=600&size=18&duration=2500&pause=1000&color=8065B8&center=true&vCenter=true&width=600&height=45&lines=Design+%E2%9C%A6+Develop+%E2%9C%A6+Innovate;Dream+Big.+Build+Bigger.;Thank+You+For+Visiting+My+Profile!" />
+
+<br/>
+
+**“Feel free to explore my repositories and connect with me!”**
 
 <br/><br/>
 
-<em>“Feel free to explore my repositories and connect with me!”</em>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:55E5F5,25:9CCBF0,55:B59BD8,80:8766B6,100:5958A5&animation=twinkling&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:53E0F5,25:9CCBF0,55:B39AD8,80:8666B5,100:5958A5&section=footer&animation=twinkling" />
 
 </div>
 
